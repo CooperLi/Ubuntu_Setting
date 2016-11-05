@@ -1,0 +1,48 @@
+{
+    "configs": [
+        {
+            "method": "aes-256-cfb",
+            "password": "CawS8SwXxjV5",
+            "remarks": "未命名配置",
+            "server": "jp01-40.ssv7.net",
+            "server_port": 
+        },
+        {
+            "method": "aes-256-cfb",
+            "password": "CawS8SwXxjV5",
+            "remarks": "未命名配置",
+            "server": "jp06-40.ssv7.net",
+            "server_port": 
+        },
+        {
+            "method": "aes-256-cfb",
+            "password": "CawS8SwXxjV5",
+            "remarks": "未命名配置",
+            "server": "us01-40.ssv7.net",
+            "server_port": 
+        },
+        {
+            "method": "aes-256-cfb",
+            "password": "CawS8SwXxjV5",
+            "remarks": "未命名配置",
+            "server": "us02-40.ssv7.net",
+            "server_port": 
+        },
+        {
+            "method": "aes-256-cfb",
+            "password": "CawS8SwXxjV5",
+            "remarks": "未命名配置",
+            "server": "us03-40.ssv7.net",
+            "server_port": 
+        },
+        {
+            "method": "aes-256-cfb",
+            "password": "CawS8SwXxjV5",
+            "remarks": "未命名配置",
+            "server": "hk02-40.ssv7.net",
+            "server_port": 
+        }
+    ],
+    "localPort": 1080,
+    "shareOverLan": false
+}
